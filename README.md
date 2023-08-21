@@ -1,7 +1,7 @@
 # Acesso SSH no EC2
 
 ## Introdução
-  Neste repositório, documento a criação de uma instância de máquina virtual EC2 na AWS e o acesso a ela via SSH. Será demonstrado o processo de provisionamento na nuvem AWS e o acesso por SSH, utilizando a ferramenta PUTTY.
+  Neste repositório, documento a criação de uma instância de máquina virtual EC2 na AWS e o acesso a ela via SSH.
   
 ## Objetivo
   O objetivo é demonstrar o processo de provisionamento na nuvem da AWS e o acesso por SSH, utilizando a ferramenta PuTTY.
@@ -10,7 +10,7 @@
   AWS e PuTTY.
   
 ## Método
-  Primeiramente, é preciso criar uma instãncia EC2 na AWS, selecionar o sistema Amazon Linux, configurar uma chave .ppk e executá-la. Com isso, é realizado o download da chave de acesso.
+  Primeiramente, é preciso criar uma instãncia EC2 na AWS, selecionar o sistema Amazon Linux, configurar uma chave .ppk e executá-la. Com isso, é realizado o download da chave de acesso e a instância é executada.
   
   ![image](https://github.com/IsraelNLC/semana3-ec2/assets/99210055/9489382b-11d7-4ad5-a6d6-3ef04a5da30b)
   Console AWS com a instância em execução
